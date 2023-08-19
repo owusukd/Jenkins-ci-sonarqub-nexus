@@ -1,4 +1,4 @@
-# Jenkins-cicd-sonarqube-ecr-ecs
+# Jenkins-ci-sonarqube-nexus
 In this project, I built a java application with maven and uploaded the build to a Nexus server. 
 The application is a standalone monolithic java application. 
 In this project I provisioned a Jenkins server, SonarQube server for code analysis with defined quality gate and a Nexus server as repo for the build.
