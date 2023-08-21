@@ -15,4 +15,4 @@ The whole process involved in fetching the code from github, performing code ana
 * Slack notification
 
 
-Source code by Imran Teli.
+Java Source code by Imran Teli.
